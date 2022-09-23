@@ -1,6 +1,6 @@
 alabaster==0.7.12
 anaconda-client
-anaconda-navigator==2.3.0
+anaconda-navigator
 anyio==3.6.1
 appdirs==1.4.4
 asn1crypto==0.24.0
